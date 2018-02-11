@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Masakoha&#39;s Room</title>
-    <link>https://masalinkinpark.github.io/categories/</link>
+    <link>https://masalinkinpark.github.io/WebPage/categories/</link>
     <description>Recent content in Categories on Masakoha&#39;s Room</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     
-	<atom:link href="https://masalinkinpark.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://masalinkinpark.github.io/WebPage/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

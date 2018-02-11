@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://masalinkinpark.github.io/categories/</loc>
+    <loc>https://masalinkinpark.github.io/WebPage/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://masalinkinpark.github.io/</loc>
+    <loc>https://masalinkinpark.github.io/WebPage/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://masalinkinpark.github.io/tags/</loc>
+    <loc>https://masalinkinpark.github.io/WebPage/tags/</loc>
     <priority>0</priority>
   </url>
   
